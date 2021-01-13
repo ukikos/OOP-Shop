@@ -1,0 +1,840 @@
+{
+  "stock": {
+    "countable products": {
+      "ALCOHOL": {
+        "name": "ALCOHOL",
+        "productType": "ALCOHOL",
+        "price": 398,
+        "partialWeight": 2,
+        "quantity": 0,
+        "expirationDays": 3650
+      },
+      "CHEESE": {
+        "name": "CHEESE",
+        "productType": "CHEESE",
+        "price": 80,
+        "partialWeight": 3,
+        "quantity": 27,
+        "expirationDays": 40
+      },
+      "SPICES": {
+        "name": "SPICES",
+        "productType": "SPICES",
+        "price": 533,
+        "partialWeight": 3,
+        "quantity": 0,
+        "expirationDays": 365
+      },
+      "MILK": {
+        "name": "MILK",
+        "productType": "MILK",
+        "price": 469,
+        "partialWeight": 3,
+        "quantity": 0,
+        "expirationDays": 10
+      },
+      "TOILETRY": {
+        "name": "TOILETRY",
+        "productType": "TOILETRY",
+        "price": 62,
+        "partialWeight": 1,
+        "quantity": 55,
+        "expirationDays": 3650
+      },
+      "BREAD": {
+        "name": "BREAD",
+        "productType": "BREAD",
+        "price": 28,
+        "partialWeight": 3,
+        "quantity": 86,
+        "expirationDays": 14
+      },
+      "SWEETIES": {
+        "name": "SWEETIES",
+        "productType": "SWEETIES",
+        "price": 59,
+        "partialWeight": 3,
+        "quantity": 0,
+        "expirationDays": 14
+      },
+      "FISH": {
+        "name": "FISH",
+        "productType": "FISH",
+        "price": 332,
+        "partialWeight": 4,
+        "quantity": 0,
+        "expirationDays": 90
+      },
+      "DRINK": {
+        "name": "DRINK",
+        "productType": "DRINK",
+        "price": 535,
+        "partialWeight": 5,
+        "quantity": 95,
+        "expirationDays": 21
+      },
+      "CLOTHES": {
+        "name": "CLOTHES",
+        "productType": "CLOTHES",
+        "price": 712,
+        "partialWeight": 2,
+        "quantity": 48,
+        "expirationDays": 3650
+      },
+      "MEAT": {
+        "name": "MEAT",
+        "productType": "MEAT",
+        "price": 810,
+        "partialWeight": 3,
+        "quantity": 0,
+        "expirationDays": 30
+      }
+    },
+    "uncountable products": {
+      "SAUSAGE": {
+        "name": "SAUSAGE",
+        "productType": "SAUSAGE",
+        "price": 116,
+        "weight": 0,
+        "expirationDays": 28
+      },
+      "FISH": {
+        "name": "FISH",
+        "productType": "FISH",
+        "price": 162,
+        "weight": 15,
+        "expirationDays": 90
+      },
+      "PAPERS": {
+        "name": "PAPERS",
+        "productType": "PAPERS",
+        "price": 174,
+        "weight": 0,
+        "expirationDays": 3648
+      },
+      "ALCOHOL": {
+        "name": "ALCOHOL",
+        "productType": "ALCOHOL",
+        "price": 642,
+        "weight": 28,
+        "expirationDays": 3650
+      },
+      "TOILETRY": {
+        "name": "TOILETRY",
+        "productType": "TOILETRY",
+        "price": 146,
+        "weight": 0,
+        "expirationDays": 3650
+      },
+      "BREAD": {
+        "name": "BREAD",
+        "productType": "BREAD",
+        "price": 71,
+        "weight": 0,
+        "expirationDays": 14
+      },
+      "MILK": {
+        "name": "MILK",
+        "productType": "MILK",
+        "price": 281,
+        "weight": 0,
+        "expirationDays": 10
+      },
+      "DRINK": {
+        "name": "DRINK",
+        "productType": "DRINK",
+        "price": 666,
+        "weight": 109,
+        "expirationDays": 21
+      },
+      "CHEESE": {
+        "name": "CHEESE",
+        "productType": "CHEESE",
+        "price": 656,
+        "weight": 80,
+        "expirationDays": 40
+      },
+      "SPICES": {
+        "name": "SPICES",
+        "productType": "SPICES",
+        "price": 165,
+        "weight": 122,
+        "expirationDays": 365
+      },
+      "CLOTHES": {
+        "name": "CLOTHES",
+        "productType": "CLOTHES",
+        "price": 33,
+        "weight": 0,
+        "expirationDays": 3650
+      }
+    }
+  },
+  "shop": {
+    "countable products": {
+      "PAPERS": {
+        "name": "PAPERS",
+        "productType": "PAPERS",
+        "price": 892,
+        "partialWeight": 3,
+        "quantity": 210,
+        "expirationDays": 3637
+      },
+      "DRINK": {
+        "name": "DRINK",
+        "productType": "DRINK",
+        "price": 638,
+        "partialWeight": 1,
+        "quantity": 201,
+        "expirationDays": 8
+      },
+      "TOILETRY": {
+        "name": "TOILETRY",
+        "productType": "TOILETRY",
+        "price": 297,
+        "partialWeight": 4,
+        "quantity": 315,
+        "expirationDays": 3637
+      },
+      "CHEESE": {
+        "name": "CHEESE",
+        "productType": "CHEESE",
+        "price": 125,
+        "partialWeight": 2,
+        "quantity": 395,
+        "expirationDays": 27
+      },
+      "MEAT": {
+        "name": "MEAT",
+        "productType": "MEAT",
+        "price": 587,
+        "partialWeight": 3,
+        "quantity": 240,
+        "expirationDays": 12
+      },
+      "SWEETIES": {
+        "name": "SWEETIES",
+        "productType": "SWEETIES",
+        "price": 3,
+        "partialWeight": 5,
+        "quantity": 208,
+        "expirationDays": 1
+      },
+      "VEGETABLES": {
+        "name": "VEGETABLES",
+        "productType": "VEGETABLES",
+        "price": 874,
+        "partialWeight": 2,
+        "quantity": 191,
+        "expirationDays": 17
+      },
+      "FISH": {
+        "name": "FISH",
+        "productType": "FISH",
+        "price": 5,
+        "partialWeight": 3,
+        "quantity": 187,
+        "expirationDays": 81
+      },
+      "BREAD": {
+        "name": "BREAD",
+        "productType": "BREAD",
+        "price": 721,
+        "partialWeight": 5,
+        "quantity": 296,
+        "expirationDays": 5
+      },
+      "ALCOHOL": {
+        "name": "ALCOHOL",
+        "productType": "ALCOHOL",
+        "price": 753,
+        "partialWeight": 4,
+        "quantity": 219,
+        "expirationDays": 3641
+      },
+      "SEAFOOD": {
+        "name": "SEAFOOD",
+        "productType": "SEAFOOD",
+        "price": 465,
+        "partialWeight": 4,
+        "quantity": 85,
+        "expirationDays": 54
+      },
+      "CLOTHES": {
+        "name": "CLOTHES",
+        "productType": "CLOTHES",
+        "price": 561,
+        "partialWeight": 3,
+        "quantity": 191,
+        "expirationDays": 3647
+      },
+      "MILK": {
+        "name": "MILK",
+        "productType": "MILK",
+        "price": 697,
+        "partialWeight": 3,
+        "quantity": 143,
+        "expirationDays": 7
+      },
+      "SAUSAGE": {
+        "name": "SAUSAGE",
+        "productType": "SAUSAGE",
+        "price": 767,
+        "partialWeight": 1,
+        "quantity": 73,
+        "expirationDays": 27
+      },
+      "SPICES": {
+        "name": "SPICES",
+        "productType": "SPICES",
+        "price": 945,
+        "partialWeight": 1,
+        "quantity": 198,
+        "expirationDays": 363
+      }
+    },
+    "uncountable products": {
+      "SEAFOOD": {
+        "name": "SEAFOOD",
+        "productType": "SEAFOOD",
+        "price": 728,
+        "weight": 254,
+        "expirationDays": 47
+      },
+      "MEAT": {
+        "name": "MEAT",
+        "productType": "MEAT",
+        "price": 4,
+        "weight": 240,
+        "expirationDays": 17
+      },
+      "BREAD": {
+        "name": "BREAD",
+        "productType": "BREAD",
+        "price": 10,
+        "weight": 225,
+        "expirationDays": 1
+      },
+      "SAUSAGE": {
+        "name": "SAUSAGE",
+        "productType": "SAUSAGE",
+        "price": 203,
+        "weight": 361,
+        "expirationDays": 21
+      },
+      "CHEESE": {
+        "name": "CHEESE",
+        "productType": "CHEESE",
+        "price": 388,
+        "weight": 200,
+        "expirationDays": 31
+      },
+      "FISH": {
+        "name": "FISH",
+        "productType": "FISH",
+        "price": 723,
+        "weight": 335,
+        "expirationDays": 81
+      },
+      "TOILETRY": {
+        "name": "TOILETRY",
+        "productType": "TOILETRY",
+        "price": 78,
+        "weight": 103,
+        "expirationDays": 3641
+      },
+      "DRINK": {
+        "name": "DRINK",
+        "productType": "DRINK",
+        "price": 640,
+        "weight": 167,
+        "expirationDays": 17
+      },
+      "PAPERS": {
+        "name": "PAPERS",
+        "productType": "PAPERS",
+        "price": 389,
+        "weight": 219,
+        "expirationDays": 3646
+      },
+      "CLOTHES": {
+        "name": "CLOTHES",
+        "productType": "CLOTHES",
+        "price": 612,
+        "weight": 156,
+        "expirationDays": 3647
+      },
+      "ALCOHOL": {
+        "name": "ALCOHOL",
+        "productType": "ALCOHOL",
+        "price": 767,
+        "weight": 240,
+        "expirationDays": 3647
+      },
+      "SWEETIES": {
+        "name": "SWEETIES",
+        "productType": "SWEETIES",
+        "price": 829,
+        "weight": 6,
+        "expirationDays": 11
+      },
+      "MILK": {
+        "name": "MILK",
+        "productType": "MILK",
+        "price": 11,
+        "weight": 63,
+        "expirationDays": 7
+      },
+      "SPICES": {
+        "name": "SPICES",
+        "productType": "SPICES",
+        "price": 165,
+        "weight": 60,
+        "expirationDays": 365
+      }
+    }
+  },
+  "customers queue": [
+    {
+      "money": 1930.0,
+      "scaleOfDesires": {
+        "TOILETRY": 0,
+        "CHEESE": 1
+      }
+    },
+    {
+      "money": 702.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 1305.0,
+      "scaleOfDesires": {
+        "VEGETABLES": 4,
+        "FISH": 4,
+        "CHEESE": 3,
+        "SPICES": 3
+      }
+    },
+    {
+      "money": 2722.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 5,
+        "FISH": 1
+      }
+    },
+    {
+      "money": 801.0,
+      "scaleOfDesires": {
+        "SAUSAGE": 4,
+        "SEAFOOD": 2,
+        "BREAD": 5,
+        "MILK": 1,
+        "ALCOHOL": 2,
+        "MEAT": 4
+      }
+    },
+    {
+      "money": 2895.0,
+      "scaleOfDesires": {
+        "TOILETRY": 1,
+        "VEGETABLES": 2,
+        "SWEETIES": 0,
+        "MILK": 5
+      }
+    },
+    {
+      "money": 1362.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 3,
+        "SWEETIES": 3,
+        "FISH": 1,
+        "BREAD": 0,
+        "DRINK": 5,
+        "SPICES": 3,
+        "MEAT": 1
+      }
+    },
+    {
+      "money": 2413.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 2651.0,
+      "scaleOfDesires": {
+        "FISH": 2,
+        "MILK": 0
+      }
+    },
+    {
+      "money": 1565.0,
+      "scaleOfDesires": {
+        "SWEETIES": 3,
+        "FISH": 3,
+        "BREAD": 5,
+        "ALCOHOL": 1,
+        "MILK": 5,
+        "MEAT": 0
+      }
+    },
+    {
+      "money": 2912.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 4,
+        "FISH": 5,
+        "PAPERS": 4,
+        "ALCOHOL": 3,
+        "DRINK": 1
+      }
+    },
+    {
+      "money": 1435.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 680.0,
+      "scaleOfDesires": {
+        "TOILETRY": 5,
+        "SEAFOOD": 3,
+        "SAUSAGE": 5,
+        "SWEETIES": 5,
+        "PAPERS": 1,
+        "CHEESE": 0,
+        "MILK": 2,
+        "ALCOHOL": 2
+      }
+    },
+    {
+      "money": 569.0,
+      "scaleOfDesires": {
+        "VEGETABLES": 2,
+        "SAUSAGE": 3,
+        "SWEETIES": 5,
+        "CHEESE": 5,
+        "SPICES": 2
+      }
+    },
+    {
+      "money": 2245.0,
+      "scaleOfDesires": {
+        "FISH": 2,
+        "BREAD": 5,
+        "ALCOHOL": 0,
+        "MEAT": 5
+      }
+    },
+    {
+      "money": 2905.0,
+      "scaleOfDesires": {
+        "BREAD": 0,
+        "DRINK": 4
+      }
+    },
+    {
+      "money": 866.0,
+      "scaleOfDesires": {
+        "TOILETRY": 4,
+        "SEAFOOD": 2,
+        "SAUSAGE": 0,
+        "CHEESE": 3
+      }
+    },
+    {
+      "money": 1120.0,
+      "scaleOfDesires": {
+        "SWEETIES": 4,
+        "CLOTHES": 5,
+        "ALCOHOL": 0,
+        "MEAT": 2
+      }
+    },
+    {
+      "money": 1989.0,
+      "scaleOfDesires": {
+        "TOILETRY": 3,
+        "VEGETABLES": 1,
+        "SEAFOOD": 2,
+        "SAUSAGE": 1,
+        "SWEETIES": 4,
+        "MILK": 1,
+        "DRINK": 3,
+        "SPICES": 4,
+        "MEAT": 5
+      }
+    },
+    {
+      "money": 22.0,
+      "scaleOfDesires": {
+        "TOILETRY": 0,
+        "CLOTHES": 5,
+        "CHEESE": 1
+      }
+    },
+    {
+      "money": 1890.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 2166.0,
+      "scaleOfDesires": {
+        "CHEESE": 0,
+        "DRINK": 1
+      }
+    },
+    {
+      "money": 2726.0,
+      "scaleOfDesires": {
+        "TOILETRY": 4,
+        "VEGETABLES": 3,
+        "SAUSAGE": 0,
+        "SWEETIES": 5,
+        "CLOTHES": 0,
+        "CHEESE": 5,
+        "ALCOHOL": 3,
+        "MILK": 4
+      }
+    },
+    {
+      "money": 795.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 604.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 5,
+        "FISH": 4,
+        "CHEESE": 0,
+        "SPICES": 4
+      }
+    },
+    {
+      "money": 2211.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 5
+      }
+    },
+    {
+      "money": 653.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 2,
+        "SWEETIES": 5,
+        "CLOTHES": 0,
+        "FISH": 1,
+        "PAPERS": 0,
+        "BREAD": 0,
+        "MILK": 5
+      }
+    },
+    {
+      "money": 1973.0,
+      "scaleOfDesires": {
+        "SEAFOOD": 4,
+        "SAUSAGE": 3,
+        "SWEETIES": 2,
+        "FISH": 3,
+        "BREAD": 1,
+        "MILK": 3,
+        "SPICES": 3
+      }
+    },
+    {
+      "money": 1514.0,
+      "scaleOfDesires": {
+        "SPICES": 5
+      }
+    },
+    {
+      "money": 2603.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 2433.0,
+      "scaleOfDesires": {
+        "TOILETRY": 2,
+        "SEAFOOD": 1,
+        "PAPERS": 0,
+        "CHEESE": 5,
+        "MILK": 5,
+        "ALCOHOL": 5
+      }
+    },
+    {
+      "money": 1743.0,
+      "scaleOfDesires": {
+        "CHEESE": 4,
+        "SPICES": 2
+      }
+    },
+    {
+      "money": 330.0,
+      "scaleOfDesires": {
+        "SWEETIES": 5,
+        "FISH": 2,
+        "CLOTHES": 5,
+        "MEAT": 4
+      }
+    },
+    {
+      "money": 2116.0,
+      "scaleOfDesires": {
+        "TOILETRY": 3,
+        "SEAFOOD": 4,
+        "CLOTHES": 2,
+        "PAPERS": 1,
+        "MILK": 1,
+        "DRINK": 3,
+        "MEAT": 5
+      }
+    },
+    {
+      "money": 1423.0,
+      "scaleOfDesires": {}
+    },
+    {
+      "money": 2151.0,
+      "scaleOfDesires": {
+        "VEGETABLES": 0,
+        "MEAT": 0
+      }
+    },
+    {
+      "money": 1642.0,
+      "scaleOfDesires": {
+        "BREAD": 3,
+        "DRINK": 1
+      }
+    },
+    {
+      "money": 469.0,
+      "scaleOfDesires": {
+        "VEGETABLES": 5,
+        "SWEETIES": 2,
+        "FISH": 5,
+        "BREAD": 2,
+        "CHEESE": 4,
+        "MILK": 2,
+        "DRINK": 5,
+        "MEAT": 4
+      }
+    },
+    {
+      "money": 947.0,
+      "scaleOfDesires": {
+        "TOILETRY": 1,
+        "SAUSAGE": 4,
+        "SWEETIES": 1,
+        "PAPERS": 0,
+        "CHEESE": 3,
+        "ALCOHOL": 1,
+        "MEAT": 2
+      }
+    },
+    {
+      "money": 881.0,
+      "scaleOfDesires": {
+        "TOILETRY": 0,
+        "CLOTHES": 2,
+        "FISH": 1,
+        "PAPERS": 0,
+        "CHEESE": 4,
+        "SPICES": 0
+      }
+    },
+    {
+      "money": 296.0,
+      "scaleOfDesires": {
+        "PAPERS": 1
+      }
+    },
+    {
+      "money": 2280.0,
+      "scaleOfDesires": {
+        "TOILETRY": 0,
+        "SAUSAGE": 1,
+        "SEAFOOD": 0,
+        "FISH": 0,
+        "PAPERS": 3,
+        "BREAD": 1,
+        "MILK": 4,
+        "SPICES": 4,
+        "MEAT": 3
+      }
+    },
+    {
+      "money": 2323.0,
+      "scaleOfDesires": {
+        "TOILETRY": 3,
+        "SWEETIES": 2,
+        "FISH": 0,
+        "BREAD": 2,
+        "CHEESE": 0,
+        "ALCOHOL": 4,
+        "DRINK": 2
+      }
+    },
+    {
+      "money": 1202.0,
+      "scaleOfDesires": {
+        "FISH": 0,
+        "BREAD": 0,
+        "CHEESE": 0,
+        "SPICES": 0,
+        "DRINK": 0
+      }
+    },
+    {
+      "money": 1985.0,
+      "scaleOfDesires": {
+        "TOILETRY": 1,
+        "SEAFOOD": 0,
+        "FISH": 2,
+        "BREAD": 0,
+        "CHEESE": 0,
+        "SPICES": 5,
+        "DRINK": 1,
+        "MEAT": 3
+      }
+    },
+    {
+      "money": 2083.0,
+      "scaleOfDesires": {
+        "SAUSAGE": 5,
+        "ALCOHOL": 3,
+        "MEAT": 5
+      }
+    },
+    {
+      "money": 1930.0,
+      "scaleOfDesires": {
+        "SAUSAGE": 3,
+        "FISH": 1,
+        "CHEESE": 4,
+        "MILK": 4
+      }
+    },
+    {
+      "money": 2589.0,
+      "scaleOfDesires": {
+        "VEGETABLES": 3,
+        "SWEETIES": 3,
+        "PAPERS": 3,
+        "ALCOHOL": 0
+      }
+    },
+    {
+      "money": 315.0,
+      "scaleOfDesires": {
+        "TOILETRY": 5,
+        "VEGETABLES": 5,
+        "SAUSAGE": 1,
+        "SEAFOOD": 4,
+        "FISH": 0,
+        "PAPERS": 0,
+        "CHEESE": 2,
+        "SPICES": 2
+      }
+    }
+  ],
+  "planned events": [
+    "PRICE_FALL"
+  ]
+}
